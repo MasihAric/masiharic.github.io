@@ -4,8 +4,10 @@ body{
 .bg-primary{
     background-color: black! important;
 }
-.project1 .porject-1{
+.col-md-4{
     margin-top: 20px;
     padding-top: 10px;
-
+    border-collapse: separate;
+    border-spacing: 15px;
 }
+
