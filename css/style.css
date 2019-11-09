@@ -10,3 +10,7 @@ body{
     border-collapse: separate;
     border-spacing: 15px;
 }
+.container_project1{
+    display: flex !important;
+    flex-flow: row wrap !important;
+}
