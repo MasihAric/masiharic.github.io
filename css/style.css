@@ -14,3 +14,7 @@ body{
     display: flex !important;
     flex-flow: row wrap !important;
 }
+
+.card{
+    height: 45rem !important;
+}
